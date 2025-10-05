@@ -1,2 +1,2 @@
 # strapi-cms1
-Strapi CMS
+Strapi CMS for test branch.
